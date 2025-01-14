@@ -50,9 +50,8 @@ Welcome to **Weather Info App**, a lightweight and user-friendly weather applica
    python weather.py
    ```
 
-## Screenshots
+## Screenshot of my Desktop App
 
-Add screenshots here to showcase the app interface and features.
 ![image](https://github.com/user-attachments/assets/87bfd63f-96d7-4d75-8428-d083fa233656)
 
 
