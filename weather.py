@@ -15,7 +15,7 @@ def resource_path(relative_path):
 
 
 # API Key and Base URL
-API_KEY = "5d894bd74a30064c0ba6d40972c788fd"
+API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # Function to fetch and display weather data
